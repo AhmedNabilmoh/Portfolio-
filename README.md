@@ -152,8 +152,31 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 <br>
 
 # 📊 Recent Projects in Data Analytics
+---
+
+## Hotels Reservations Analysis 
+*ITI graduation Project*
+<br>
+**Description:** 
+🔍 Our project focuses on analyzing hotel reservation data, utilizing a comprehensive dataset from Kaggle. It explores key trends in booking behaviors, cancellations, customer profiles, and seasonal demand. With 5 CSV files covering diverse aspects of hotel operations, this analysis offers valuable insights to enhance revenue strategies and customer satisfaction. Using integration by SSIS, design DWH " Star Schema " ETL, Data Transformations, Data Cleansing, Data Cleaning , and Visualization Using SSAS,SSRS , Power BI and Tableau .
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HomeL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI) 
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HomeD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)  
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HotelL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HotelD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/BookingL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/BookingD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/CancelL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Cancel.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/AmountL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/AmountD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+
+
+**Tools & Technologies:**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
+
 
 ## 🛒 Brazilian E-Commerce Public Dataset by OLIST 
 
@@ -172,27 +195,26 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 
 ---
 
-## 🎮 A/B Testing for Cookie Cats Mobile Game  
+## ⚙️ IBM HR Analytics Employee Attrition Dashboard  
 
 **Description:**  
-🔍 Led an **A/B Testing** analysis for the mobile game **Cookie Cats**, evaluating player retention between control and test groups. Used statistical techniques like **Shapiro-Wilk**, **Levene's Test**, and **T-tests** to provide business recommendations that improved retention rates.
+This project leverages IBM’s HR data and advanced analytics techniques to provide insights into factors contributing to
+employee turnover, helping HR professionals make data-driven decisions to improve employee retention.
 
-[![A/B Testing Cookie Cats](https://github.com/abdullah0150/Images/blob/main/images/project-1.png)](https://github.com/abdullah-khaled0/A-B-Testing-with-Cookie-Cats-mobile-game-dataset/blob/main/presentation.pdf)
+[![IBM HR](https://github.com/AhmedNabilmoh/Images/blob/main/DB1L.PNG)](https://github.com/AhmedNabilmoh/IBM-HR-Analytics-Employee-Attrition-Performance)
+[![IBM HR](https://github.com/AhmedNabilmoh/Images/blob/main/DB1D.PNG)](https://github.com/AhmedNabilmoh/IBM-HR-Analytics-Employee-Attrition-Performance)
+[![IBM HR](https://github.com/AhmedNabilmoh/Images/blob/main/DB2L.PNG)](https://github.com/AhmedNabilmoh/IBM-HR-Analytics-Employee-Attrition-Performance)
+[![IBM HR](https://github.com/AhmedNabilmoh/Images/blob/main/DB2D.PNG)](https://github.com/AhmedNabilmoh/IBM-HR-Analytics-Employee-Attrition-Performance)
+[![IBM HR](https://github.com/AhmedNabilmoh/Images/blob/main/DB3L.PNG)](https://github.com/AhmedNabilmoh/IBM-HR-Analytics-Employee-Attrition-Performance)
+[![IBM HR](https://github.com/AhmedNabilmoh/Images/blob/main/DB3D.PNG)](https://github.com/AhmedNabilmoh/IBM-HR-Analytics-Employee-Attrition-Performance)
 
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
----
 
-## ⚙️ Automated Machine Learning Pipeline for Data Preprocessing, Training, and Evaluation  
-
-**Description:**  
-Built a fully automated machine learning pipeline using **Python** and **DVC**. This pipeline handles data preprocessing, model training using **XGBoost**, and evaluation. Versioning and reproducibility are ensured via **DVC**.
-
-[![Automated ML Pipeline](https://github.com/abdullah0150/Images/blob/main/images/project-3.png)](https://www.linkedin.com/posts/abdullah-khaled-0608a9236_machinelearning-activity-7236010396329869312-zLAS?utm_source=share&utm_medium=member_desktop)
 
 **Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-F37626?style=flat&logo=dvc&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)
+
 
 ---
 
