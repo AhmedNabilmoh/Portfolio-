@@ -1,6 +1,6 @@
 ![MasterHead](https://iconscout.com/lottie-animation/data-analysis-4209916.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Nabil </h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Business Intelligence Developer and Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -11,11 +11,11 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
-- 📫 **Reach me at**: [dev.abdullah.khaled@gmail.com](mailto:dev.abdullah.khaled@gmail.com) | **+20 1557504902**  
+- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1NmC0m3nEWk3pTzjWNK-h44UKdHXjebcP0mJaMRSK7dM/edit?usp=sharing)  
+- 💬 **Ask me about**:  Data Analytics  
+- 📫 **Reach me at**: [ahmnabilmoh@gmail.com](mailto:dev.ahmnabilmoh@gmail.com) | **+20 1033712906**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
-- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/abdullah.khaled)  
+ 
 
 ---
 
