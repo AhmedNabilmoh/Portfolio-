@@ -51,9 +51,12 @@
 
 # 💼 Experience
 **Technical Support Specialist Dec 2022 – Dec 2023** · *Electronic warfare weapon*  
+
 Providing technical support for one year to solve network problems, prepare special programs, fix program errors, write
 coordinated faxes and repairing the faults of the military system .  
-**Business Intelligence Consultant** *(Freelance)*
+
+**Business Intelligence Consultant** *Freelance*
+
 Design and monitor complex databases and Ensure a database is operational and provides valid and relevant data. Oversaw
 existing database management systems' operations, troubleshoot errors, and tune performance. Work with different developing
 teams to establish an efficient database system using SQL Server. Craft and execute queries upon request for data, and present
@@ -61,10 +64,18 @@ information through reports and visualization using Power BI.
 
 
 ---
-
-## 🧑‍💻 Data Scientist Intern  
-**WorldQuant University** · *Remote*  
-**May 2023 - May 2023** (1 month)  
+## 🧑‍💻 Data Analyst  
+**NeuronetiX** · *Remote*  
+**Aug 2024 – Sep 2024** (1 month)  
+o Comprehensive training in data analysis techniques and tools .
+## 🧑‍💻 Power BI Development Track  
+**Intensive Code Camp at Information Technology Institute (ITI)** ·
+**May 2024 – Aug 2024** (4 month)  
+o I designed different database modeling and Implemented them with Toad Data Modeler and SQL Server as
+relational database management systems (RDBMS).
+o Database Development includes functions, stored procedures, and triggers. Also, I Created Interactive
+Dashboards using MS Power BI, and SSRS.
+o Design and Build ETL and data warehousing using SSIS, and SSAS.
 
 **Key Responsibilities:**
 - Engaged in the **Applied Data Science Lab**, applying data science methodologies to real-world projects.
