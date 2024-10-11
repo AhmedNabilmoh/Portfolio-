@@ -110,7 +110,7 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 ![Snowflake](https://img.shields.io/badge/Snowflake-00E7B7?style=flat&logo=snowflake&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=flat&logo=statistics&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time%20Series-FF4500?style=flat&logo=time-series&logoColor=white)
-![DAX](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
+
 
 ### ☁️ Familiar with Cloud Computing & Services
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
