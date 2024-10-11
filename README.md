@@ -1,8 +1,7 @@
-![MasterHead](https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Nabil </h1>
 <h3 align="center">Business Intelligence Developer and Data Analyst</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
@@ -51,7 +50,10 @@
 <br>
 
 # 💼 Experience
-
+** Technical Support Specialist Dec 2022 – Dec 2023 **
+Electronic warfare weapon
+Providing technical support for one year to solve network problems, prepare special programs, fix program errors, write
+coordinated faxes and repairing the faults of the military system .
 ---
 
 ## 🧑‍💻 Data Scientist Intern  
