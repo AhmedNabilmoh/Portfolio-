@@ -160,7 +160,7 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 **Description:**  
 🚀 Excited to share my latest project on **Customer Segmentation** using **RFM (Recency, Frequency, Monetary)** analysis for a UK-based online retailer specializing in unique gifts. This project analyzed customer transactions to segment audiences effectively.
 
-[![Customer Segmentation Based on RFM](https://github.com/abdullah0150/Images/blob/main/images/project-2.png)](https://github.com/abdullah-khaled0/Customer-Segmentation-based-on-RFM/blob/main/Presentation.pdf)  
+[![Customer Segmentation Based on RFM](https://github.com/AhmedNabilmoh/Images/blob/main/Capture11.PNG)](https://github.com/AhmedNabilmoh/Olist)  
 
 **Business Goal:**  
 🎯 Enable targeted marketing strategies by segmenting customers based on their purchasing behavior.
