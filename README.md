@@ -1,4 +1,4 @@
-![MasterHead](https://iconscout.com/lottie-animation/data-analysis-4209916)
+![MasterHead](https://iconscout.com/lottie-animation/data-analysis-4209916.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Nabil </h1>
 <h3 align="center">Data Scientist</h3>
 
