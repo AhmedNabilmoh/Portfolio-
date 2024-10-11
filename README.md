@@ -50,10 +50,16 @@
 <br>
 
 # 💼 Experience
-** Technical Support Specialist Dec 2022 – Dec 2023 **
-Electronic warfare weapon
+**Technical Support Specialist Dec 2022 – Dec 2023** · *Electronic warfare weapon*  
 Providing technical support for one year to solve network problems, prepare special programs, fix program errors, write
-coordinated faxes and repairing the faults of the military system .
+coordinated faxes and repairing the faults of the military system .  
+**Business Intelligence Consultant** *(Freelance)*
+Design and monitor complex databases and Ensure a database is operational and provides valid and relevant data. Oversaw
+existing database management systems' operations, troubleshoot errors, and tune performance. Work with different developing
+teams to establish an efficient database system using SQL Server. Craft and execute queries upon request for data, and present
+information through reports and visualization using Power BI.
+
+
 ---
 
 ## 🧑‍💻 Data Scientist Intern  
