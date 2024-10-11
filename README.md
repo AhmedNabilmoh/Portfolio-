@@ -68,41 +68,22 @@ information through reports and visualization using Power BI.
 **NeuronetiX** · *Remote*  
 **Aug 2024 – Sep 2024** (1 month)  
 o Comprehensive training in data analysis techniques and tools .
+
 ## 🧑‍💻 Power BI Development Track  
 **Intensive Code Camp at Information Technology Institute (ITI)** ·
 **May 2024 – Aug 2024** (4 month)  
+
 o I designed different database modeling and Implemented them with Toad Data Modeler and SQL Server as
 relational database management systems (RDBMS).
+
 o Database Development includes functions, stored procedures, and triggers. Also, I Created Interactive
 Dashboards using MS Power BI, and SSRS.
-o Design and Build ETL and data warehousing using SSIS, and SSAS.
 
-**Key Responsibilities:**
-- Engaged in the **Applied Data Science Lab**, applying data science methodologies to real-world projects.
+o Design and Build ETL and data warehousing using SSIS, and SSAS.
 
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
 ---
-
-## 🖥️ Software Engineer  
-**Self-employed**  
-**Nov 2021 - Dec 2022** (1 year 2 months)  
-**Location:** Egypt  
-
-**Key Projects:**
-- **FCAI App:** Designed to assist classmates with academic materials, streamlining access to resources.
-- **Tasbeeh App:** Developed a digital tool for tasbeeh, enhancing users' spiritual practices.
-- **Hoozgram:** Built an app for mood tracking, promoting emotional awareness.
-- **3D Game:** Created a 3D game using Unity Engine, offering engaging gameplay experiences.
-- **AR App:** Developed an augmented reality application, delivering immersive experiences.
-- **Food Recipes App:** Released a user-friendly app featuring a variety of food recipes.
-- **Website Development:** Built dynamic websites using various technologies, showcasing a full-stack development skill set.
-
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com) [![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Problem_solving)  [![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=nosql&logoColor=white)](https://www.nosql.com) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Augmented Reality](https://img.shields.io/badge/Augmented_Reality-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Augmented_reality) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com)  [![Web Development](https://img.shields.io/badge/Web_Development-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Web_development) [![User Experience (UX)](https://img.shields.io/badge/User_Experience-00BFFF?style=for-the-badge)](https://en.wikipedia.org/wiki/User_experience)  [![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development) [![Version Control (Git)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-
----
-
-
 
 <br>
 
@@ -112,32 +93,11 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 🤖 Machine Learning & NLP
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 📊 Data Analysis & Business Intelligence
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
-
-### 🧠 Deep Learning & GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-00A3E0?style=flat&logo=cohere&logoColor=white)
-
-### 🚀 Deployment & MLOps
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-0055FF?style=flat&logo=dvc&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF69B4?style=flat&logo=githubactions&logoColor=white)
-
-### 📊 Data Science & Business Intelligence
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-0080FF?style=flat&logo=apache-airflow&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-000000?style=flat&logo=dbt&logoColor=white)
@@ -150,7 +110,7 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 ![Snowflake](https://img.shields.io/badge/Snowflake-00E7B7?style=flat&logo=snowflake&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=flat&logo=statistics&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time%20Series-FF4500?style=flat&logo=time-series&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
+![DAX](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
 
 ### ☁️ Familiar with Cloud Computing & Services
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -161,7 +121,6 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat&logo=amazon-sagemaker&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-1E1E1E?style=flat&logo=azure-databricks&logoColor=white)
-![S3 Bucket](https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=amazon-s3&logoColor=white)
 
 
 
