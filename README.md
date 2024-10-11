@@ -218,78 +218,52 @@ employee turnover, helping HR professionals make data-driven decisions to improv
 
 ---
 
-## 🚀 Comprehensive Sales Performance Enhancement  
+## 🚀 Sample Super Store Dashboard 
 
 **Description:**  
-Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing channel performance and promotional effectiveness using **Power BI**. Provided actionable insights that optimized future sales strategies, driving revenue growth.
+These dashboards provide different lenses through which to view and analyze various aspects of a Super Store’s operations, helping managers and decision-makers stay informed and responsive to the needs of the business. Adjust the specifics to match the unique requirements and data of your Super Store.
 
-[![Sales Performance Enhancement](https://github.com/abdullah0150/Images/blob/main/images/project-5.png)](https://github.com/abdullah-khaled0/Sales-Dashboard-in-PowerBI/blob/main/presentation.pdf)
+[![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/1723484928109.jpeg)](https://github.com/AhmedNabilmoh/Sample-Super-Store-Tableau-Dashboard)
+[![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/1723484928722.jpeg)](https://github.com/AhmedNabilmoh/Sample-Super-Store-Tableau-Dashboard)
+[![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/1723484929744.jpeg)](https://github.com/AhmedNabilmoh/Sample-Super-Store-Tableau-Dashboard)
 
 **Tools & Technologies:**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)
 
 ---
 
-## 💼 Customer Personality Analysis  
-
+## Napta (graduation project) 
+*Flutter Application*
 **Description:**  
-Performed customer segmentation using **K-Means Clustering** to categorize customers by behavioral patterns. These insights helped the company design personalized marketing strategies, improving customer engagement and revenue.
+The main issue is trying to help farmers know the diseases type that affect their plants and knowing the appropriate treatment for each disease as soon as possible. Some new farmers suffer from lack of experience in some agricultural matters, so they need someone to exchange experience to have the best crops. It can be obtained under these conditions and using the appropriate tools and equipment. The Application presents an experienced community where people can help each other in the faced problems. A chat-bot system will be available in order to provide plants information to users, so the user can ask the bot for any information about the plant among the common and predefined questions, then the bot will return the answer to the user .
 
-[![Customer Personality Analysis](https://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif)](https://www.kaggle.com/code/abdullah7aled/customer-personality-analysis-in-python)
+[![Napta](https://github.com/AhmedNabilmoh/Images/blob/main/grad.PNG)](https://github.com/AhmedNabilmoh/Napta)
 
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-FF6347?style=flat&logo=clustering)   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-## 🎥 Movie Recommendation System  
+## Corona Virus Analysis
+*Using R*
+**Description:**  
+visualize data of YouTube comments about people's opinions of Corona Virus.
+
+[![Napta](https://github.com/AhmedNabilmoh/Images/blob/main/Screenshot%20(74).png)](https://github.com/AhmedNabilmoh/R-Project-)
+
+## Moghtrap  
+*website*
 
 **Description:**  
-Built a movie recommendation system using the **MovieLens 100k** dataset, optimizing with **SVD** and **grid search**. Achieved an RMSE score of 0.94 to enhance user experience on streaming platforms.
+ That make people to reserve apartment or bed by showing the advantages of the apartment and place
 
-[![Movie Recommendation System](https://github.com/abdullah0150/Images/blob/main/images/project-4.png)](https://github.com/your-username/your-repo-link)
+[![Moghtrap])](https://github.com/AhmedNabilmoh/Moghtarp)
 
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SVD](https://img.shields.io/badge/SVD_Model-FF4500?style=flat) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
 
 
 ---
 
 <br>
 
-# 🏅 Certifications
-
-## 🚀 Machine Learning & Data Science
-
-- **[Machine Learning Specialization](#)**  
-  *Issued Feb 2023 - DeepLearning.AI*  
-  ![ML Skill](https://img.shields.io/badge/-Machine%20Learning-blue)
-
-- **[Machine Learning Engineer (MLOps)](#)**  
-  *Issued Aug 2024 - DataCamp*  
-  ![MLOps Skill](https://img.shields.io/badge/-MLOps-9cf)
-
-- **[The Machine Learning Process A-Z](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![ML Process](https://img.shields.io/badge/-Machine%20Learning%20Process-green)
-
-- **[Deep Learning Specialization](#)**  
-  *Issued Mar 2023 - DeepLearning.AI*  
-  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-yellowgreen)
-
-- **[IBM AI Engineering Professional](#)**  
-  *Issued Apr 2023 - Coursera*  
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-orange)  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-brightgreen)
-
-- **[TensorFlow Professional](#)**  
-  *Issued Apr 2023 - DeepLearning.AI*  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue)
-
-- **[Machine Learning with Decision Trees and Random Forests](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![Decision Trees](https://img.shields.io/badge/-Decision%20Trees-brightgreen)
-  
+# 🏅 Certifications  
 
 ## 📊 Data Analysis & Visualization
 
@@ -324,13 +298,6 @@ Built a movie recommendation system using the **MovieLens 100k** dataset, optimi
   *Issued Nov 2023 - 365 Data Science*  
   ![Probability](https://img.shields.io/badge/-Probability-blueviolet)
 
-- **[Calculus for Machine Learning and Data Science](#)**  
-  *Issued Feb 2023 - DeepLearning.AI*  
-  ![Calculus](https://img.shields.io/badge/-Calculus-green)
-
-- **[Linear Algebra for Machine Learning and Data Science](#)**  
-  *Issued Feb 2023 - DeepLearning.AI*  
-  ![Linear Algebra](https://img.shields.io/badge/-Linear%20Algebra-red)
 
 ## 🛠️ Data Engineering
 
@@ -338,7 +305,9 @@ Built a movie recommendation system using the **MovieLens 100k** dataset, optimi
   *Issued Jul 2024 - DataCamp*  
   ![SQL](https://img.shields.io/badge/-SQL-blueviolet)  
   ![ETL](https://img.shields.io/badge/-ETL-orange)
-
+- **[ Hacker Rank Certified: SQL Basic, Intermediate, Advanced]**
+- **[ Hacker Rank Certified: Python Basic, Intermediate, Advanced]** 
+ 
 ## 📈 Communication & Strategy
 
 - **[Communication and Presentation Skills for Analysts and Managers](#)**  
