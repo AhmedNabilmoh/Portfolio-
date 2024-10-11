@@ -155,10 +155,11 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 
 ---
 
-## 🛒 Customer Segmentation Based on RFM Analysis  
+## 🛒 Brazilian E-Commerce Public Dataset by OLIST 
 
 **Description:**  
-🚀 Excited to share my latest project on **Customer Segmentation** using **RFM (Recency, Frequency, Monetary)** analysis for a UK-based online retailer specializing in unique gifts. This project analyzed customer transactions to segment audiences effectively.
+🚀This is a Business Intelligence Project that a apply the Concepts of bi "integration, design DWH "Star Schema" ETL,
+   Data Transformations, Data Cleansing, Data Cleaning, and Visualization Using Power BI".
 
 [![Customer Segmentation Based on RFM](https://github.com/AhmedNabilmoh/Images/blob/main/Capture11.PNG)](https://github.com/AhmedNabilmoh/Olist)  
 
