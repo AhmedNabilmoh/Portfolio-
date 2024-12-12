@@ -1,6 +1,7 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Nabil </h1>
 <h3 align="center">Business Intelligence Developer and Data Analyst</h3>
+<h5 align="center">As a highly skilled data professional with comprehensive training at ITI as a Power BI Developer and a robust background in data analysis and visualization, I am eager to leverage my advanced technical expertise and deep knowledge of business intelligence to drive meaningful insights and contribute to the success of a forward-thinking team. Passionate about transforming complex datasets into actionable insights, I excel at developing user-friendly dashboards and data-driven solutions that empower informed decision-making and enhance business performance. </h5>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" />
 
@@ -12,7 +13,7 @@
 
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1NmC0m3nEWk3pTzjWNK-h44UKdHXjebcP0mJaMRSK7dM/edit?usp=sharing)  
-- 💬 **Ask me about**:  Data Analytics  
+- 💬 **Ask me about**:  Data Analysis   
 - 📫 **Reach me at**: [ahmnabilmoh@gmail.com](mailto:dev.ahmnabilmoh@gmail.com) | **+20 1033712906**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
  
@@ -155,6 +156,21 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 # 📊 Recent Projects in Data Analytics
 ---
 
+## 🚀 Analyzing 5.82 Million Airline Flights! ✈️
+<br>
+**Description:** 
+🔍 
+ I analyzed over 5 million commercial airline flight records from 2015, compiled by the U.S. DOT Air Travel Consumer Report. 
+[![Watch the video](https://github.com/AhmedNabilmoh/Images/blob/main/giphy.gif)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+[![Airline Flights ](https://github.com/AhmedNabilmoh/Images/blob/main/Home.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI) 
+[![Airline Flights ](https://github.com/AhmedNabilmoh/Images/blob/main/Delay.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)  
+[![Airline Flights ](https://github.com/AhmedNabilmoh/Images/blob/main/Cancelled.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Airline Flights ](https://github.com/AhmedNabilmoh/Images/blob/main/Map.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+
+**Tools & Technologies:**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+ 
 ## Hotels Reservations Analysis 
 *ITI graduation Project*
 <br>
