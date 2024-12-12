@@ -201,7 +201,9 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 🚀This is a Business Intelligence Project that a apply the Concepts of bi "integration, design DWH "Star Schema" ETL,
    Data Transformations, Data Cleansing, Data Cleaning, and Visualization Using Power BI".
 
-[![Customer Segmentation Based on RFM](https://github.com/AhmedNabilmoh/Images/blob/main/Capture11.PNG)](https://github.com/AhmedNabilmoh/Olist)  
+[![Customer Segmentation Based on RFM](https://github.com/AhmedNabilmoh/Images/blob/main/Capture11.PNG)](https://github.com/AhmedNabilmoh/Olist)
+[![Customer Segmentation Based on RFM](https://github.com/AhmedNabilmoh/Images/blob/main/Olist2.PNG)](https://github.com/AhmedNabilmoh/Olist)
+[![Customer Segmentation Based on RFM](https://github.com/AhmedNabilmoh/Images/blob/main/olist3.PNG)](https://github.com/AhmedNabilmoh/Olist)
 
 **Business Goal:**  
 🎯 Enable targeted marketing strategies by segmenting customers based on their purchasing behavior.
