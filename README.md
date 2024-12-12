@@ -209,6 +209,7 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 **Tools & Technologies:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)
+[![Watch the video](https://github.com/AhmedNabilmoh/Images/blob/main/giphy.gif)](https://youtu.be/_LpIVVQWOSY) 
 
 ---
 
