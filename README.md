@@ -186,7 +186,7 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 [![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Cancelation%20Dark.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
 [![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Revenue%20Light.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
 [![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Revenue%20Dark.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-
+[![Watch the video](https://github.com/AhmedNabilmoh/Images/blob/main/giphy.gif)](https://www.youtube.com/watch?v=lFnpOIvmlIY)
 
 **Tools & Technologies:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
