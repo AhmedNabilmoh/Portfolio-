@@ -176,16 +176,16 @@ o Design and Build ETL and data warehousing using SSIS, and SSAS.
 <br>
 **Description:** 
 🔍 Our project focuses on analyzing hotel reservation data, utilizing a comprehensive dataset from Kaggle. It explores key trends in booking behaviors, cancellations, customer profiles, and seasonal demand. With 5 CSV files covering diverse aspects of hotel operations, this analysis offers valuable insights to enhance revenue strategies and customer satisfaction. Using integration by SSIS, design DWH " Star Schema " ETL, Data Transformations, Data Cleansing, Data Cleaning , and Visualization Using SSAS,SSRS , Power BI and Tableau .
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HomeL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI) 
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HomeD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)  
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HotelL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/HotelD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/BookingL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/BookingD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/CancelL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Cancel.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/AmountL.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
-[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/AmountD.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Home%20Light.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI) 
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Home%20Dark.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)  
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Hotel%20Light.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Hotel%20dark.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Bookinglight.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Bookingdark.PNG)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Cancelation%20Light.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Cancelation%20Dark.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Revenue%20Light.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
+[![Hotels Reservations Analysis ](https://github.com/AhmedNabilmoh/Images/blob/main/Revenue%20Dark.png)](https://github.com/AhmedNabilmoh/Hotels-Reservations-Analysis-For-ITI)
 
 
 **Tools & Technologies:**  
