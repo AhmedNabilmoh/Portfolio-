@@ -321,10 +321,7 @@ visualize data of YouTube comments about people's opinions of Corona Virus.
 
 ## 🛠️ Data Engineering
 
-- **[Associate Data Engineer in SQL](#)**  
-  *Issued Jul 2024 - DataCamp*  
-  ![SQL](https://img.shields.io/badge/-SQL-blueviolet)  
-  ![ETL](https://img.shields.io/badge/-ETL-orange)
+- **[Data Analyst Certified on DataCamp]** 
 - **[ Hacker Rank Certified: SQL Basic, Intermediate, Advanced]**
 - **[ Hacker Rank Certified: Python Basic, Intermediate, Advanced]** 
  
