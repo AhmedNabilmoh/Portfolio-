@@ -2,7 +2,7 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Nabil </h1>
 <h3 align="center">Business Intelligence Developer and Data Analyst</h3>
-<h5 align="center">As a highly skilled data professional with comprehensive training at ITI as a Power BI Developer and a robust background in data analysis and visualization, I am eager to leverage my advanced technical expertise and deep knowledge of business intelligence to drive meaningful insights and contribute to the success of a forward-thinking team. Passionate about transforming complex datasets into actionable insights, I excel at developing user-friendly dashboards and data-driven solutions that empower informed decision-making and enhance business performance. </h5>
+<h5 align="center"> Business Intelligence Developer and Data Analyst with hands-on professional training from ITI, DEPI, and NeuronetiX. Skilled in data analysis, dashboard creation, and ETL processes using tools like Power BI, Excel ,Tableau, SQL, and SSIS. Passionate about transforming raw data into actionable insights to drive informed business decisions and optimize performance. Eager to contribute to a data-driven team through innovation and analytical thinking. </h5>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" />
 
@@ -13,8 +13,8 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1NtD_0l62a1eBXkvNJWjGnSwvdZWGtxSs/view?usp=sharing)  
-- 💬 **Ask me about**:  Data Analysis   
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1ZNXVLV6rYKE4s1b4pihz9lXQq2MTcney/view?usp=sharing)  
+- 💬 **Ask me about**:  Data Analysis    
 - 📫 **Reach me at**: [ahmnabilmoh@gmail.com](mailto:dev.ahmnabilmoh@gmail.com) | **+20 1033712906**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
  
@@ -53,39 +53,42 @@
 <br>
 
 # 💼 Experience
-**Technical Support Specialist Dec 2022 – Dec 2023** · *Electronic warfare weapon*  
-
-Providing technical support for one year to solve network problems, prepare special programs, fix program errors, write
-coordinated faxes and repairing the faults of the military system .  
-
-**Business Intelligence Consultant** *Freelance*
+**🧑‍💻Business Intelligence Consultant** *Freelance*
 
 Design and monitor complex databases and Ensure a database is operational and provides valid and relevant data. Oversaw
 existing database management systems' operations, troubleshoot errors, and tune performance. Work with different developing
 teams to establish an efficient database system using SQL Server. Craft and execute queries upon request for data, and present
 information through reports and visualization using Power BI.
 
-
----
 ## 🧑‍💻 Data Analyst  
 **NeuronetiX** · *Remote*  
 **Aug 2024 – Sep 2024** (1 month)  
 o Comprehensive training in data analysis techniques and tools .
 
-## 🧑‍💻 Power BI Development Track  
+## 🧑‍💻 Business Intelligence Developer Track 
 **Intensive Code Camp at Information Technology Institute (ITI)** ·
-**May 2024 – Aug 2024** (4 month)  
+**May 2024 – Oct 2024** (5 month)  
 
-o I designed different database modeling and Implemented them with Toad Data Modeler and SQL Server as
+•I designed different database modeling and Implemented them with Toad Data Modeler and SQL Server as
 relational database management systems (RDBMS).
-
-o Database Development includes functions, stored procedures, and triggers. Also, I Created Interactive
+•Database Development includes functions, stored procedures, and triggers. Also, I Created Interactive
 Dashboards using MS Power BI, and SSRS.
-
-o Design and Build ETL and data warehousing using SSIS, and SSAS.
+•Design and Build ETL and data warehousing using SSIS, and SSAS.
 
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
+
+## 🧑‍💻 Data Analytics – Data Analyst Specialist
+**Digital Egypt Pioneers Initiative - DEPI** ·
+**Apr 2024 – Oct 2024** (6 month)  
+
+•	Understanding the data lifecycle, data types, and key analytical concepts.
+•	Techniques for handling, cleaning, and transforming raw data to ensure accuracy and reliability.
+•	Writing queries, extracting insights, and managing relational databases efficiently.
+•	Using tools like Power BI, Tableau ,Excel ,or Python to create interactive and insightful dashboards.
+
+
+[![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 ---
 
 <br>
