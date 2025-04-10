@@ -290,44 +290,25 @@ visualize data of YouTube comments about people's opinions of Corona Virus.
 
 ## 📊 Data Analysis & Visualization
 
-- **[Google Data Analytics Professional](#)**  
-  *Issued Apr 2023 - Google*  
-  ![SQL](https://img.shields.io/badge/-SQL-blueviolet)  
-  ![Tableau](https://img.shields.io/badge/-Tableau-orange)
+- **[Power BI Developer](#)**  
+  *Intensive Code Camp at Information Technology Institute (ITI). *
+  [![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/ITI.jpg)](https://github.com/AhmedNabilmoh/Images/blob/main/ITI.jpg)
 
-- **[Data Analysis with Python](#)**  
-  *Issued Feb 2023 - freeCodeCamp*  
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[Data Analytics – Data Analyst Specialist](#)**  
+  *Digital Egypt Pioneers Initiative - DEPI*  
+  [![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/DEPI.PNG)](https://github.com/AhmedNabilmoh/Images/blob/main/DEPI.PNG)
 
-- **[Advanced Microsoft Excel](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![Excel Skill](https://img.shields.io/badge/-Excel-success)
+- **[Data Analyst Certified ](#)**  
+  * DataCamp *  
+  [![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/Data%20Camp.png)](https://github.com/AhmedNabilmoh/Images/blob/main/Data%20Camp.png)
 
-- **[Building Business Reports Using Power BI](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow)
-
-## 🧮 Mathematics & Statistics
-
-- **[Mathematics](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![Mathematics](https://img.shields.io/badge/-Mathematics-ff69b4)
-
-- **[Statistics](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![Statistics](https://img.shields.io/badge/-Statistics-yellow)
-
-- **[Probability](#)**  
-  *Issued Nov 2023 - 365 Data Science*  
-  ![Probability](https://img.shields.io/badge/-Probability-blueviolet)
+- **[Hacker Rank Certified](#)**  
+  *SQL Basic, Intermediate, Advanced.*  
+  [![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/SQLBasic.jpg)](https://github.com/AhmedNabilmoh/Images/blob/main/SQLBasic.jpg)
+    [![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/Sqlinter.jpg)](https://github.com/AhmedNabilmoh/Images/blob/main/Sqlinter.jpg)
+    [![Sales Performance Enhancement](https://github.com/AhmedNabilmoh/Images/blob/main/SqlAdvanced.jpg)](https://github.com/AhmedNabilmoh/Images/blob/main/SqlAdvanced.jpg)
 
 
-## 🛠️ Data Engineering
-
-- **[Data Analyst Certified on DataCamp]** 
-- **[ Hacker Rank Certified: SQL Basic, Intermediate, Advanced]**
-- **[ Hacker Rank Certified: Python Basic, Intermediate, Advanced]** 
- 
 
 ---
   
