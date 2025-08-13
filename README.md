@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**]([https://drive.google.com/file/d/1javelOFrhJT2-p_yZmD1MK4EiYjD5ImV/view?usp=sharing])
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1javelOFrhJT2-p_yZmD1MK4EiYjD5ImV/view?usp=sharing)
 - 💬 **Ask me about**:  Data Analysis    
 - 📫 **Reach me at**: [ahmnabilmoh@gmail.com](mailto:dev.ahmnabilmoh@gmail.com) | **+20 1033712906**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
