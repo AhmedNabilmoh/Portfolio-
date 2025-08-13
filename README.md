@@ -2,7 +2,7 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Nabil </h1>
 <h3 align="center">Business Intelligence Developer and Data Analyst</h3>
-<h5 align="center"> Business Intelligence Developer and Data Analyst with hands-on professional training from ITI, DEPI, and NeuronetiX. Skilled in data analysis, dashboard creation, and ETL processes using tools like Power BI, Excel ,Tableau, SQL, and SSIS. Passionate about transforming raw data into actionable insights to drive informed business decisions and optimize performance. Eager to contribute to a data-driven team through innovation and analytical thinking. </h5>
+<h5 align="center"> Results-driven SQL Database Administrator and Business Intelligence Developer with hands-on experience in managing complex database environments, optimizing performance, and delivering data-driven solutions. Proven ability to design and maintain secure, high-performing SQL Server systems, develop end-to-end ETL pipelines, and create impactful dashboards using Power BI, Tableau, and SSRS. Passionate about leveraging data to drive business growth, ensure data integrity, and support decision-making through innovation and best practices. </h5>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" />
 
@@ -53,6 +53,16 @@
 <br>
 
 # 💼 Experience
+**🧑‍💻 SQL Administrator** *Khwarizm Consulting *
+
+Managing and monitoring SQL Server databases for performance, availability, and security.
+Performing regular backups, restores, and implementing disaster recovery strategies.
+Creating and maintaining SQL Agent Jobs, alerts, and automated maintenance plans.
+Optimizing database performance through indexing, query tuning, and execution plan analysis.
+Handling user permissions, logins, and implementing role-based access control.
+Supporting developers with database-related tasks, schema updates, and data migrations.
+Monitoring high availability setups and maintaining database integrity.
+
 **🧑‍💻Business Intelligence Consultant** *Freelance*
 
 Design and monitor complex databases and Ensure a database is operational and provides valid and relevant data. Oversaw
